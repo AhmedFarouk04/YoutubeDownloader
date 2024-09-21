@@ -1,0 +1,11 @@
+D:\New folder\youtube\youtube\bin\Debug\net8.0\youtube.deps.json
+D:\New folder\youtube\youtube\bin\Debug\net8.0\youtube.dll
+D:\New folder\youtube\youtube\bin\Debug\net8.0\youtube.pdb
+D:\New folder\youtube\youtube\obj\Debug\net8.0\youtube.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\youtube\youtube\obj\Debug\net8.0\youtube.AssemblyInfoInputs.cache
+D:\New folder\youtube\youtube\obj\Debug\net8.0\youtube.AssemblyInfo.cs
+D:\New folder\youtube\youtube\obj\Debug\net8.0\youtube.csproj.CoreCompileInputs.cache
+D:\New folder\youtube\youtube\obj\Debug\net8.0\youtube.dll
+D:\New folder\youtube\youtube\obj\Debug\net8.0\refint\youtube.dll
+D:\New folder\youtube\youtube\obj\Debug\net8.0\youtube.pdb
+D:\New folder\youtube\youtube\obj\Debug\net8.0\ref\youtube.dll
