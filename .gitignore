@@ -1,4 +1,7 @@
-# Visual Studio
+# =========================
+# Visual Studio / .NET
+# =========================
+# IDE caches
 .vs/
 **/.vs/
 *.suo
@@ -11,13 +14,42 @@ bin/
 obj/
 **/bin/
 **/obj/
-
-# Logs/temps/symbols
-*.log
+artifacts/
+TestResults/
+[Bb]uild[Ll]og*.*
+*.aps
+*.idb
 *.pdb
 *.cache
-*.vsidx
+*.log
+*.tlog
+*.lastcodeanalysissucceeded
 
-# IDEs أخرى
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/packages/
+packages/
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+# dotnet tools
+.dotnet-tools/
+
+# Rider / VS Code / others
 .idea/
 .vscode/
+*.sln.iml
+
+# Publish / temp
+publish/
+AppPackages/
+**/wwwroot/lib/
+node_modules/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
