@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+**/.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Logs/temps/symbols
+*.log
+*.pdb
+*.cache
+*.vsidx
+
+# IDEs أخرى
+.idea/
+.vscode/
