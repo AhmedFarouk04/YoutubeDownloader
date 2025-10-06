@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\you\\you\\you.csproj": {}
+    "C:\\Users\\ahmed\\Downloads\\My-Github\\YoutubeDownloader\\you\\you\\you.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\you\\you\\you.csproj": {
+    "C:\\Users\\ahmed\\Downloads\\My-Github\\YoutubeDownloader\\you\\you\\you.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\you\\you\\you.csproj",
+        "projectUniqueName": "C:\\Users\\ahmed\\Downloads\\My-Github\\YoutubeDownloader\\you\\you\\you.csproj",
         "projectName": "you",
-        "projectPath": "D:\\New folder\\you\\you\\you.csproj",
+        "projectPath": "C:\\Users\\ahmed\\Downloads\\My-Github\\YoutubeDownloader\\you\\you\\you.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\you\\you\\obj\\",
+        "outputPath": "C:\\Users\\ahmed\\Downloads\\My-Github\\YoutubeDownloader\\you\\you\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,11 +48,11 @@
           "dependencies": {
             "YoutubeExplode": {
               "target": "Package",
-              "version": "[6.4.2, )"
+              "version": "[6.5.5, )"
             },
             "YoutubeExplode.Converter": {
               "target": "Package",
-              "version": "[6.4.2, )"
+              "version": "[6.5.5, )"
             }
           },
           "imports": [
